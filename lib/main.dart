@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:sample/subPage/firstPage.dart';
+import 'package:sample/subPage/secondPage.dart';
 
 void main() {
-  runApp(Home());
+  runApp(Hallym());
 }
 
 // class MyApp extends StatelessWidget {
